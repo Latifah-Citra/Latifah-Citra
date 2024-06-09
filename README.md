@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Latifah Citra Mahkota
-- 👀 I’m interested in Electrical Engineering
-- 🌱 I’m currently learning IoT
+- Hi, I’m Latifah Citra Mahkota
+
 
 
 <!---
